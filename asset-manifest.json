@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/la-catarina-boutique/static/css/main.b047e517.chunk.css",
+    "main.js": "/la-catarina-boutique/static/js/main.aea308c8.chunk.js",
+    "main.js.map": "/la-catarina-boutique/static/js/main.aea308c8.chunk.js.map",
+    "runtime-main.js": "/la-catarina-boutique/static/js/runtime-main.24a9d16f.js",
+    "runtime-main.js.map": "/la-catarina-boutique/static/js/runtime-main.24a9d16f.js.map",
+    "static/js/2.ca62b911.chunk.js": "/la-catarina-boutique/static/js/2.ca62b911.chunk.js",
+    "static/js/2.ca62b911.chunk.js.map": "/la-catarina-boutique/static/js/2.ca62b911.chunk.js.map",
+    "index.html": "/la-catarina-boutique/index.html",
+    "static/css/main.b047e517.chunk.css.map": "/la-catarina-boutique/static/css/main.b047e517.chunk.css.map",
+    "static/js/2.ca62b911.chunk.js.LICENSE.txt": "/la-catarina-boutique/static/js/2.ca62b911.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24a9d16f.js",
+    "static/js/2.ca62b911.chunk.js",
+    "static/css/main.b047e517.chunk.css",
+    "static/js/main.aea308c8.chunk.js"
+  ]
+}
