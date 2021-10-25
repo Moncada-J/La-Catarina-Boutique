@@ -2,6 +2,7 @@ import React, {useState} from 'react'
 import styled from "styled-components";
 import { ArrowLeftOutlined, ArrowRightOutlined  } from '@material-ui/icons';
 import { sliderItems } from '../data';
+import { mobile } from '../responsive';
 
 const Container = styled.div`
     width: 100%;
@@ -9,6 +10,7 @@ const Container = styled.div`
     display: flex;
     position: relative;
     overflow: hidden;
+     ${mobile({ display: "none" })}
 `;
 
 const Arrow = styled.div`
@@ -27,14 +29,14 @@ const Arrow = styled.div`
     margin: auto;
     cursor: pointer;
     opacity: 0.5;
-    z-index: 2px;
+    z-index: 2;
 `;
 
 const Wrapper = styled.div`
     height: 100%;
     display: flex;
     transition: all 1.5s ease;
-    transform: translateX(${props=>props.slideIndex * -100}vw);
+    transform: translateX(${(props)=>props.slideIndex * -100}vw);
 `;
 
 const Slide = styled.div`

@@ -4,21 +4,21 @@ export const sliderItems = [
     img: "https://i.imgur.com/CLf4TVW.png",
     title: "FALL SALE",
     desc: "DON'T COMPROMISE ON STYLE! GET FLAT 25% OFF FOR NEW ARRIVALS.",
-    bg: "e59514",
+    bg: "white",
   },
   {
     id: 2,
     img: "https://i.imgur.com/tySwfT8.png",
     title: "BYE SUMMER LOVE",
     desc: "DON'T COMPROMISE ON STYLE! GET FLAT 25% OFF FOR NEW ARRIVALS.",
-    bg: "e0d23e",
+    bg: "white",
   },
   {
     id: 3,
     img: "https://i.imgur.com/CDded3v.png",
     title: "FAVORITES COLLECTION",
     desc: "DON'T COMPROMISE ON STYLE! GET FLAT 25% OFF FOR NEW ARRIVALS.",
-    bg: "e271ad",
+    bg: "white",
   },
 ];
 
